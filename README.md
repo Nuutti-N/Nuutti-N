@@ -16,7 +16,7 @@ startup founder in 12 months.
 - 🎓 Starting Software Engineering studies (Fall 2026)
 
 ## 🌐 Connect with me
-- 
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nuutti-kyll%C3%B6nen-b4958031b/)
 
 ## 💻 Tech Stack
 
