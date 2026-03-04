@@ -1,4 +1,4 @@
-# Hi there, I'm Nuutti! 👋
+# Hey there, I'm Nuutti! 👋
 
 💫 About Me
 I'm a 19-year-old aspiring developer from Finland 🇫🇮, 
