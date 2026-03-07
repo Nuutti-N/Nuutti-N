@@ -11,7 +11,7 @@ startup founder in 12 months.
 ## 🚀 What I'm Up To
 - 🐍 Mastering Python fundamentals
 - ⚡ Learning FastAPI and backend development
-- 🤖 Exploring AI and cybersecurity
+- 🤖 Exploring AI (ML) and cybersecurity 
 - 📱 Building my first real projects
 - 🎓 Starting Software Engineering studies (Fall 2026)
 
