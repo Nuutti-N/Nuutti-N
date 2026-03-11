@@ -17,6 +17,7 @@ startup founder in 12 months.
 
 ## 🌐 Connect with me
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nuutti-kyll%C3%B6nen-b4958031b/)
+- https://www.youtube.com/channel/UCtveG6Hh7Vx04TMXwBzGFRg 
 
 ## 💻 Tech Stack
 
