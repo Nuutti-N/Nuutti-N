@@ -30,7 +30,7 @@ learning something new every day. The goal is to solve human problems, and One d
 **Currently Learning:**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-
+![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 
 Developer Tools: 
 
