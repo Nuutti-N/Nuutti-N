@@ -2,15 +2,13 @@
 
 💫 About Me
 I'm a 19-year-old fullstack developer from Finland 🇫🇮, 
-passionate about coding, building projects, and 
-learning something new every day. The goal is to solve human problems, and One day I will go to the IPO! 
+I build AI-powered apps and document the journey. The goal is to solve human problems, and One day I will go to the IPO! 
 
 
-## 🚀 What I'm Up To
-- 🐍 Mastering Python fundamentals
-- ⚡ Learning FastAPI and backend development
+## 🚀 What I'm building
+- AI truth detection app (deployed)
+- AI agents project(coming soon)
 - 🤖 Exploring AI (ML) 
-- 📱 Building full stack real world projects
 - 🎓 Starting Software Engineering studies (Fall 2026)
 
 ## 🌐 Connect with me
