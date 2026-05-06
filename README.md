@@ -7,7 +7,7 @@ I build AI-powered apps and document the journey. Goal: solve real world problem
 
 ## 🚀 What I'm building
 - AI truth detection app (deployed)
-- AI agents project(coming soon)
+- CO-founder agents project
 - 🤖 Exploring AI (ML) 
 - 🎓 Starting Software Engineering studies (Fall 2026)
 
