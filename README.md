@@ -7,7 +7,7 @@ I build AI-powered apps and document the journey. Goal: Build products that solv
 
 ## 🚀 What I'm building
 - AI truth detection app (deployed)
-- CO-founder agents project
+- CO-founder agents project | https://github.com/Nuutti-N/Cofounder-agent.git
 - Future path app (v1 done)
 - 🤖 Currently exploring AI (ML)
 
