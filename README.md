@@ -6,7 +6,7 @@ I build AI-powered apps and document the journey. Goal: Build products that solv
 
 
 ## 🚀 What I'm building
-- AI truth detection app | https://github.com/Nuutti-N/Fullstack-project.git
+- AI truth detection app — analyze text/code for misinformation using AI | https://github.com/Nuutti-N/Fullstack-project.git
 - CO-founder agents project | https://github.com/Nuutti-N/Cofounder-agent.git
 - Future path app | Live demo https://wyd-sigma.vercel.app/
 - 🤖 Currently exploring AI (ML)
