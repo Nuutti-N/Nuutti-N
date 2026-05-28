@@ -2,20 +2,22 @@
 
 💫 About Me
 I'm a 19-year-old fullstack developer from Finland 🇫🇮, 
-I build AI-powered apps and document the journey. Goal: solve real world problems and make company!
+I build AI-powered apps and document the journey. Goal: Build products that solve real problems!
 
 
 ## 🚀 What I'm building
 - AI truth detection app (deployed)
 - CO-founder agents project
 - Future path app (v1 done)
-- 🤖 Exploring AI (ML) 
-- 🎓 Starting Software Engineering studies (Fall 2026)
+- 🤖 Currently exploring AI (ML)
+
+## 🎓 Education 
+-  Starting Software Engineering studies (Fall 2026)
 
 ## 🌐 Connect with me
+- Open to collaborating, discussing tech, or chatting about development!
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nuutti-kyll%C3%B6nen-b4958031b/)
 
-- Open to collabarating, discussing tech, or just chatting about development!
 
 ## 💻 Tech Stack
 
