@@ -9,7 +9,7 @@ I build AI-powered apps and document the journey.
 - AI truth detection app — analyzes text/code for misinformation using AI | https://github.com/Nuutti-N/Fullstack-project.git
 - CO-founder agents project | https://github.com/Nuutti-N/Cofounder-agent.git
 - Future path app | Live demo https://wyd-sigma.vercel.app/
-- 🤖 Currently exploring AI (ML)
+- 🤖 Currently exploring AI, P2P, B2B
 
 ## 🎓 Education 
 -  Starting Software Engineering studies (Fall 2026)
