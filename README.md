@@ -2,7 +2,7 @@
 
 💫 About Me
 I'm a 19-year-old fullstack developer from Finland 🇫🇮, 
-I build AI-powered apps and document the journey.
+I build AI-powered apps and document the journey. Goal: Make unicorn
 
 
 ## 🚀 What I'm building
