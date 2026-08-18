@@ -1,7 +1,7 @@
 # Hey there, I'm Nuutti! 👋
 
 💫 About Me
-I'm a 19-year-old fullstack developer from Finland 🇫🇮, 
+I'm a 19-year-old fullstack developer, 
 I build AI-powered apps and document the journey. Goal: Make unicorn
 
 
